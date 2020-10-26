@@ -1,0 +1,399 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Example">
+    <display-name lang="en">Example</display-name>
+    <url>http://www.dummy</url>
+  </channel>
+  <channel id="CNN BRASIL HD">
+    <display-name lang="pt">CNN BRASIL HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Woohoo HD">
+    <display-name lang="pt">Woohoo HD</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="VH1 HD">
+    <display-name lang="pt">VH1 HD</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Telecine Cult HD">
+    <display-name lang="pt">Telecine Cult HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="TLC HD">
+    <display-name lang="pt">TLC HD</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Syfy HD">
+    <display-name lang="pt">Syfy HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Studio Universal HD">
+    <display-name lang="pt">Studio Universal HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Premiere 7 HD">
+    <display-name lang="pt">Premiere 7 HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Premiere 6 HD">
+    <display-name lang="pt">Premiere 6 HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Nick HD">
+    <display-name lang="pt">Nick HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Nick Jr. HD">
+    <display-name lang="pt">Nick Jr. HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="NatGeo Kids HD">
+    <display-name lang="pt">NatGeo Kids HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="MTV HD ³">
+    <display-name lang="pt">MTV HD ³</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="HBO POP HD">
+    <display-name lang="pt">HBO POP HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="HBO Xtreme HD">
+    <display-name lang="pt">HBO Xtreme HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="HBO Mundi HD">
+    <display-name lang="pt">HBO Mundi HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Lifetime HD">
+    <display-name lang="pt">Lifetime HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Gloob HD ³">
+    <display-name lang="pt">Gloob HD ³</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="GloboNews HD ³">
+    <display-name lang="pt">GloboNews HD ³</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="FoxLife HD">
+    <display-name lang="pt">FoxLife HD</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Food Network HD">
+    <display-name lang="pt">Food Network HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="E! HD">
+    <display-name lang="pt">E! HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Disney Channel HD">
+    <display-name lang="pt">Disney Channel HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Discovery Science HD">
+    <display-name lang="pt">Discovery Science HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="HGTV HD">
+    <display-name lang="pt">HGTV HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Discovery Kids HD">
+    <display-name lang="pt">Discovery Kids HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Comedy Central HD">
+    <display-name lang="pt">Comedy Central HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Cinemax HD">
+    <display-name lang="pt">Cinemax HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Cartoon Network HD">
+    <display-name lang="pt">Cartoon Network HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="AMC HD">
+    <display-name lang="pt">AMC HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="A E HD">
+    <display-name lang="pt">A E HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Warner Channel HD">
+    <display-name lang="pt">Warner Channel HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Viva HD">
+    <display-name lang="pt">Viva HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Universal TV HD">
+    <display-name lang="pt">Universal TV HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="TNT Séries HD">
+    <display-name lang="pt">TNT Séries HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="TNT HD">
+    <display-name lang="pt">TNT HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Telecine Touch HD">
+    <display-name lang="pt">Telecine Touch HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Telecine Premium HD">
+    <display-name lang="pt">Telecine Premium HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Telecine Pipoca HD">
+    <display-name lang="pt">Telecine Pipoca HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Telecine Fun HD">
+    <display-name lang="pt">Telecine Fun HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="TBS HD ³">
+    <display-name lang="pt">TBS HD ³</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="SporTV 3 HD">
+    <display-name lang="pt">SporTV 3 HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Telecine Action HD">
+    <display-name lang="pt">Telecine Action HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="SporTV 2 HD ³">
+    <display-name lang="pt">SporTV 2 HD ³</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Space HD">
+    <display-name lang="pt">Space HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="SBT HD">
+    <display-name lang="pt">SBT HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="RedeTV! HD">
+    <display-name lang="pt">RedeTV! HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="RecordTV HD">
+    <display-name lang="pt">RecordTV HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Premiere Clubes HD">
+    <display-name lang="pt">Premiere Clubes HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Premiere 5 HD">
+    <display-name lang="pt">Premiere 5 HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Premiere 4 HD">
+    <display-name lang="pt">Premiere 4 HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Premiere 3 HD">
+    <display-name lang="pt">Premiere 3 HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Premiere 2 HD">
+    <display-name lang="pt">Premiere 2 HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Paramount Channel HD">
+    <display-name lang="pt">Paramount Channel HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Off HD">
+    <display-name lang="pt">Off HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="National Geographic Wild HD">
+    <display-name lang="pt">National Geographic Wild HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="National Geographic HD">
+    <display-name lang="pt">National Geographic HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Multishow HD">
+    <display-name lang="pt">Multishow HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Megapix HD">
+    <display-name lang="pt">Megapix HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="ID: Investigação Discovery HD">
+    <display-name lang="pt">ID: Investigação Discovery HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="History HD">
+    <display-name lang="pt">History HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="History 2 HD">
+    <display-name lang="pt">History 2 HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="HBO Signature HD">
+    <display-name lang="pt">HBO Signature HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="HBO Plus HD">
+    <display-name lang="pt">HBO Plus HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="HBO HD">
+    <display-name lang="pt">HBO HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="HBO Family HD">
+    <display-name lang="pt">HBO Family HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="HBO 2 HD">
+    <display-name lang="pt">HBO 2 HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="GNT HD">
+    <display-name lang="pt">GNT HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="FX HD">
+    <display-name lang="pt">FX HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="FoxSports HD">
+    <display-name lang="pt">FoxSports HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="FoxSports 2 HD">
+    <display-name lang="pt">FoxSports 2 HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Fox Channel HD">
+    <display-name lang="pt">Fox Channel HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Fox Premium 1 HD">
+    <display-name lang="pt">Fox Premium 1 HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Fox Premium 2 HD">
+    <display-name lang="pt">Fox Premium 2 HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="ESPN 2 HD">
+    <display-name lang="pt">ESPN 2 HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="ESPN HD">
+    <display-name lang="pt">ESPN HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Discovery world HD">
+    <display-name lang="pt">Discovery World HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Discovery Turbo HD ³">
+    <display-name lang="pt">Discovery Turbo HD ³</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Discovery Theater HD ³">
+    <display-name lang="pt">Discovery Theater HD ³</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Discovery Home e Health HD">
+    <display-name lang="pt">Discovery Home e Health HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Discovery Channel HD">
+    <display-name lang="pt">Discovery Channel HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Combate HD">
+    <display-name lang="pt">Combate HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Sony Channel HD">
+    <display-name lang="pt">Sony Channel HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="BIS HD ³">
+    <display-name lang="pt">BIS HD ³</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="BandSports HD">
+    <display-name lang="pt">BandSports HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Band HD">
+    <display-name lang="pt">Band HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="AXN HD ³">
+    <display-name lang="pt">AXN HD ³</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Animal Planet HD">
+    <display-name lang="pt">Animal Planet HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <programme start="20201026000000 +0000" stop="20201026235900 +0000" channel="Example">
+    <title lang="en">dummy program - Full Day Show</title>
+    <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber.(n)</desc>
+  </programme>
+  <programme start="20201027000000 +0000" stop="20201027235900 +0000" channel="Example">
+    <title lang="en">dummy program - Full Day Show</title>
+    <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber.(n)</desc>
+  </programme>
+  <programme start="20201028000000 +0000" stop="20201028235900 +0000" channel="Example">
+    <title lang="en">dummy program - Full Day Show</title>
+    <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber.(n)</desc>
+  </programme>
+  <programme start="20201029000000 +0000" stop="20201029235900 +0000" channel="Example">
+    <title lang="en">dummy program - Full Day Show</title>
+    <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber.(n)</desc>
+  </programme>
+  <programme start="20201030000000 +0000" stop="20201030235900 +0000" channel="Example">
+    <title lang="en">dummy program - Full Day Show</title>
+    <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber.(n)</desc>
+  </programme>
+  <programme start="20201031000000 +0000" stop="20201031235900 +0000" channel="Example">
+    <title lang="en">dummy program - Full Day Show</title>
+    <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber.(n)</desc>
+  </programme>
+  <programme start="20201101000000 +0000" stop="20201101235900 +0000" channel="Example">
+    <title lang="en">dummy program - Full Day Show</title>
+    <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber.(n)</desc>
+  </programme>
+  <programme start="20201102000000 +0000" stop="20201102235900 +0000" channel="Example">
+    <title lang="en">dummy program - Full Day Show</title>
+    <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber.(n)</desc>
+  </programme>
+  <programme start="20201103000000 +0000" stop="20201103235900 +0000" channel="Example">
+    <title lang="en">dummy program - Full Day Show</title>
+    <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber.(n)</desc>
+  </programme>
+  <programme start="20201104000000 +0000" stop="20201104235900 +0000" channel="Example">
+    <title lang="en">dummy program - Full Day Show</title>
+    <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber.(n)</desc>
+  </programme>
+</tv>
